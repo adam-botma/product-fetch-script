@@ -21,7 +21,9 @@ This Node.js script fetches products from a Shopify store using Shopify's GraphQ
 
 5. Your output will be sorted by price and display as:
 
- ```<product-title> - <variant-title> - <variant-price>```
+ ```
+ <product-title> - <variant-title> - <variant-price>
+```
 
 
 
